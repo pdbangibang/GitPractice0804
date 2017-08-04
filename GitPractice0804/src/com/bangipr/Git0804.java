@@ -8,6 +8,8 @@ public class Git0804 {
 		System.out.println("Hello");
 		System.out.println("January 21, 1996");
 		System.out.println("1233");
+		System.out.println("MNL, PH");
+		
 		
 		for(int i=0; i <5; i++) {
 			
